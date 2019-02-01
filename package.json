@@ -1,0 +1,24 @@
+{
+  "name": "chibacity-contracts",
+  "version": "0.0.1",
+  "description": "contract for chibacity radio",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ethereum",
+    "ipfs",
+    "ipld"
+  ],
+  "author": "velasquez",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "openzeppelin-solidity": "^2.1.2",
+    "truffle-hdwallet-provider": "^1.0.3"
+  }
+}
